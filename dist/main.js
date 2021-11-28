@@ -1,0 +1,1 @@
+setTimeout((()=>{console.log("Emma Airi")}),3e3),setTimeout((()=>{console.log("Stephanie Miki")}),5e3),setTimeout((()=>{console.log("Martín Javier")}),7e3);
